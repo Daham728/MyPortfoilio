@@ -49,3 +49,105 @@ Technologies: HTML, CSS, JavaScript, UI Design and Data Structures
 A collection of responsive websites created for small businesses such as retail stores, fashion businesses, grocery shops and salons. Each website is designed around the identity and requirements of the client.
 
 Technologies: HTML, CSS, JavaScript, Responsive Design and Client-Focused UI
+
+// SKILLS AND TECHNOLOGIES
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode,netlify" alt="Skills and Technologies"> </p>
+
+Technical Skills
+Frontend web development
+Responsive website design
+UI and UX design
+Software design and problem-solving
+Git and GitHub version control
+Website deployment with Netlify
+Professional Strengths
+Clear communication
+Critical thinking
+Leadership and teamwork
+Attention to detail
+Creative problem-solving
+Fast and continuous learning
+// BUILT WITH
+Technology	Purpose
+HTML5	Provides the website structure and content
+CSS3	Controls the dark theme, responsive layout and animations
+JavaScript	Adds interactions and dynamic website behaviour
+Google Fonts	Provides Space Grotesk and Space Mono typography
+GitHub	Manages the website source code and development history
+Netlify	Hosts and deploys the live portfolio
+// DESIGN SYSTEM
+
+The portfolio uses a modern, minimal and developer-focused visual identity.
+
+Element	Value
+Primary Background	#080810
+Card Background	#0F0F1A
+Primary Text	#EAEAF2
+Secondary Text	#6B6B80
+Accent Colour	#C8F135
+Main Font	Space Grotesk
+Code Font	Space Mono
+// KEY FEATURES
+Responsive design for desktop, tablet and mobile
+Dark interface with a lime-green visual identity
+Smooth scrolling and interactive animations
+Clearly organised skills and project sections
+Direct links to live projects and repositories
+Simple contact options for clients and employers
+Lightweight structure with fast loading times
+Deployed and publicly available through Netlify
+// PROJECT STRUCTURE
+portfolio/
+├── assets/
+│   └── portfolio-banner.png
+├── index.html
+├── README.md
+└── other-project-files
+
+The exact structure may differ depending on how the website files are currently organised.
+
+// RUN THE PROJECT LOCALLY
+1. Clone the repository
+git clone YOUR-PORTFOLIO-REPOSITORY-LINK
+2. Open the project folder
+cd YOUR-PORTFOLIO-FOLDER
+3. Launch the website
+
+Open the index.html file in your browser.
+
+For easier development, open the folder in Visual Studio Code and use the Live Server extension.
+
+// LIVE PORTFOLIO
+
+The complete portfolio is available online:
+
+<p align="center"> <a href="https://dahamportfoli.netlify.app/"> <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-C8F135?style=for-the-badge&logo=googlechrome&logoColor=080810" alt="Open Portfolio"> </a> </p>
+
+// CURRENTLY AVAILABLE
+
+I am currently open to:
+
+Freelance web-development projects
+UI and UX design opportunities
+Software-engineering roles
+Client website development
+Collaborative technology projects
+
+I am available for remote opportunities and local projects across Sri Lanka.
+
+// CONNECT WITH ME
+
+<p align="center"> <a href="mailto:karunathilakadaham@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-C8F135?style=for-the-badge&logo=gmail&logoColor=080810" alt="Email"> </a> <a href="https://github.com/Daham728"> <img src="https://img.shields.io/badge/GITHUB-080810?style=for-the-badge&logo=github&logoColor=C8F135" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/dahamkarunathilake-se"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
+
+<p align="center"> 📍 Matale, Central Province, Sri Lanka </p>
+
+// FEEDBACK AND CONTRIBUTIONS
+
+Feedback and suggestions are always welcome. If you notice an issue or have an improvement to suggest, you can open an issue or submit a pull request.
+
+<p align="center"> <strong>Designed and developed by Daham Karunathilake</strong> </p>
+
+<p align="center"> <em>Building digital experiences, one idea at a time.</em> </p>
+
+<p align="center"> <sub>© 2026 Daham Karunathilake</sub> </p>
