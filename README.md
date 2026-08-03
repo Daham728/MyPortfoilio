@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-LIVE-C8F135?style=flat-square&labelColor=080810" alt="Website Status"> <img src="https://img.shields.io/badge/LOCATION-SRI_LANKA-C8F135?style=flat-square&labelColor=080810" alt="Location"> <img src="https://img.shields.io/badge/AVAILABLE_FOR-FREELANCE-C8F135?style=flat-square&labelColor=080810" alt="Freelance Availability"> </p>
 
-// ABOUT THE PORTFOLIO
+ABOUT THE PORTFOLIO
 
 This repository contains my personal portfolio website, created to introduce who I am, present my technical and creative skills, and showcase the projects I have developed.
 
@@ -20,11 +20,11 @@ The portfolio also serves as a central place for potential clients, employers an
 
 Builder. Designer. Problem Solver.
 
-// PORTFOLIO HIGHLIGHTS
+PORTFOLIO HIGHLIGHTS
 
 <table> <tr> <td width="33%" align="center"> <h3>👨‍💻 About Me</h3> <p>A brief introduction to my background, interests, values and approach to software development.</p> </td> <td width="33%" align="center"> <h3>🛠️ Skills</h3> <p>An overview of my technical abilities, design experience and professional strengths.</p> </td> <td width="33%" align="center"> <h3>🚀 Projects</h3> <p>A collection of personal, academic and client projects that demonstrate my practical experience.</p> </td> </tr> </table>
 
-// FEATURED PROJECTS
+FEATURED PROJECTS
 🏗️ Buildify Solutions
 
 A professional agency website built for my digital solutions company. It presents our services, brand identity and contact information through a clean and responsive interface.
@@ -50,7 +50,7 @@ A collection of responsive websites created for small businesses such as retail 
 
 Technologies: HTML, CSS, JavaScript, Responsive Design and Client-Focused UI
 
-// SKILLS AND TECHNOLOGIES
+SKILLS AND TECHNOLOGIES
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode,netlify" alt="Skills and Technologies"> </p>
 
@@ -81,7 +81,7 @@ The complete portfolio is available online:
 
 <p align="center"> <a href="https://dahamportfoli.netlify.app/"> <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-C8F135?style=for-the-badge&logo=googlechrome&logoColor=080810" alt="Open Portfolio"> </a> </p>
 
-// CURRENTLY AVAILABLE
+CURRENTLY AVAILABLE
 
 I am currently open to:
 
